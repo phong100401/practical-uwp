@@ -1,1 +1,0 @@
-D:\Visual\UWP\UWP\practical\practical\practical.csproj;x86

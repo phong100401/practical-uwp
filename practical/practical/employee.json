@@ -1,0 +1,19 @@
+﻿{
+  "employee_list": [
+    {
+      "name": "Peter Parker",
+      "role": "Developer",
+      "birthyear": 1990
+    },
+    {
+      "name": "Tom Hank",
+      "role": "Tester",
+      "birthyear": 1991
+    },
+    {
+      "name": "Mary Jane",
+      "role": "QA",
+      "birthyear": 1994
+    }
+  ]
+}
